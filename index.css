@@ -1,0 +1,8 @@
+.mainFrame{
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+    overflow-x:hidden;
+    overflow-Y:hidden;
+    border: 0px;
+}
